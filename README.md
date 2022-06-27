@@ -1,6 +1,5 @@
 # rbximg2gui
 Use this tool to convert digital imagery into Roblox GUIs.
-![GIF](https://i.ibb.co/Q90PhZS/imageproof.gif)
 
 #### Installation
     $ git clone https://github.com/kmunday/rbximg2gui.git
