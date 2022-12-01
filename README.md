@@ -2,7 +2,7 @@
 Use this tool to convert digital imagery into Roblox GUIs.
 
 #### Installation
-    $ git clone https://github.com/kmunday/rbximg2gui.git
+    $ git clone https://github.com/slomotion7320/rbximg2gui.git
     cd ./rbximg2gui
     pip install -r requirements.txt
 
