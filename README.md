@@ -1,5 +1,6 @@
 # rbximg2gui
-Use this tool to convert digital imagery into Roblox GUIs.
+This is a recreation of my project from ~10 years ago and likely won't be updated further.
+Use this tool to convert digital image files into Roblox GUIs.
 
 #### Installation
     $ git clone https://github.com/slomotion7320/rbximg2gui.git
